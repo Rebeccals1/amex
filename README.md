@@ -82,7 +82,7 @@ A huge shoutout to the amazing team behind this project! 🙌
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Rebeccals">
+                <a href="https://github.com/Rebeccals1">
                     <img src="https://avatars.githubusercontent.com/u/2145912?v=4" width="100;" alt="Rebeccals"/>
                     <br />
                     <sub><b>Rebecca Smith</b></sub>
